@@ -70,6 +70,7 @@ body {
     padding: 25px;
     float: left;
     max-width: 75%;
+
 }
 
 #selfie {
@@ -127,8 +128,8 @@ h1 {
     padding: 20px;
     line-height: 50px;
     border-bottom: #cccccc 2px solid;
-    text-align: none
-
+    text-align: none;
+    padding-top: 80px
 }
 
 h1, h2, h3 {
